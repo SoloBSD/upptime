@@ -10,7 +10,7 @@ sites:
   - name: News
     url: https://news.solobsd.org
   - name: Gemini
-    url: https://gemini.solobsd.org
+    url: http://gemini.solobsd.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
