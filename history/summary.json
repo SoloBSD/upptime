@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.solobsd.org.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "1.15%",
-    "uptimeDay": "1.15%",
-    "uptimeWeek": "1.15%",
-    "uptimeMonth": "1.15%",
-    "uptimeYear": "1.15%",
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 1
+      "2022-10-18": 4
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 738,
-    "timeWeek": 738,
-    "timeMonth": 738,
-    "timeYear": 738,
+    "time": 647,
+    "timeDay": 647,
+    "timeWeek": 647,
+    "timeMonth": 647,
+    "timeYear": 647,
     "dailyMinutesDown": {}
   },
   {
@@ -43,38 +43,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.solobsd.org.ico",
     "slug": "news",
     "status": "down",
-    "uptime": "0.87%",
-    "uptimeDay": "0.87%",
-    "uptimeWeek": "0.87%",
-    "uptimeMonth": "0.87%",
-    "uptimeYear": "0.87%",
+    "uptime": "0.53%",
+    "uptimeDay": "0.53%",
+    "uptimeWeek": "0.53%",
+    "uptimeMonth": "0.53%",
+    "uptimeYear": "0.53%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 1
+      "2022-10-18": 4
     }
   },
   {
     "name": "Gemini",
-    "url": "https://gemini.solobsd.org",
+    "url": "http://gemini.solobsd.org",
     "icon": "https://icons.duckduckgo.com/ip3/gemini.solobsd.org.ico",
     "slug": "gemini",
-    "status": "down",
-    "uptime": "75.49%",
-    "uptimeDay": "75.49%",
-    "uptimeWeek": "75.49%",
-    "uptimeMonth": "75.49%",
-    "uptimeYear": "75.49%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "14.23%",
+    "uptimeDay": "14.23%",
+    "uptimeWeek": "14.23%",
+    "uptimeMonth": "14.23%",
+    "uptimeYear": "14.23%",
+    "time": 165,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2022-10-18": 0
+      "2022-10-18": 3
     }
   }
 ]
