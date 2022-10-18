@@ -8,7 +8,7 @@ sites:
   - name: Science
     url: https://science.solobsd.org
   - name: News
-    url: https://news.solobsd.org
+    url: http://news.solobsd.org
   - name: Gemini
     url: http://gemini.solobsd.org
 
