@@ -27,19 +27,19 @@
     "url": "https://science.solobsd.org",
     "icon": "https://icons.duckduckgo.com/ip3/science.solobsd.org.ico",
     "slug": "science",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 904,
-    "timeWeek": 700,
-    "timeMonth": 764,
-    "timeYear": 742,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 741,
+    "timeDay": 785,
+    "timeWeek": 696,
+    "timeMonth": 761,
+    "timeYear": 741,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 33
     }
   },
   {
@@ -47,19 +47,19 @@
     "url": "http://news.solobsd.org",
     "icon": "https://icons.duckduckgo.com/ip3/news.solobsd.org.ico",
     "slug": "news",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 1178,
-    "timeDay": 1356,
-    "timeWeek": 1362,
-    "timeMonth": 1318,
+    "timeDay": 1270,
+    "timeWeek": 1340,
+    "timeMonth": 1313,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 33
     }
   },
   {
@@ -67,19 +67,19 @@
     "url": "http://gemini.solobsd.org",
     "icon": "https://icons.duckduckgo.com/ip3/gemini.solobsd.org.ico",
     "slug": "gemini",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 352,
-    "timeWeek": 190,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 226,
+    "timeDay": 285,
+    "timeWeek": 194,
     "timeMonth": 220,
-    "timeYear": 227,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 32
     }
   }
 ]
