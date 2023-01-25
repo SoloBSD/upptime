@@ -27,19 +27,19 @@
     "url": "https://science.solobsd.org",
     "icon": "https://icons.duckduckgo.com/ip3/science.solobsd.org.ico",
     "slug": "science",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.98%",
-    "time": 741,
-    "timeDay": 785,
-    "timeWeek": 696,
-    "timeMonth": 761,
-    "timeYear": 741,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
+    "time": 740,
+    "timeDay": 738,
+    "timeWeek": 690,
+    "timeMonth": 757,
+    "timeYear": 740,
     "dailyMinutesDown": {
-      "2023-01-25": 34
+      "2023-01-25": 39
     }
   },
   {
@@ -47,19 +47,19 @@
     "url": "http://news.solobsd.org",
     "icon": "https://icons.duckduckgo.com/ip3/news.solobsd.org.ico",
     "slug": "news",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.98%",
-    "time": 1178,
-    "timeDay": 1270,
-    "timeWeek": 1340,
-    "timeMonth": 1313,
-    "timeYear": 1178,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
+    "time": 1181,
+    "timeDay": 1351,
+    "timeWeek": 1359,
+    "timeMonth": 1319,
+    "timeYear": 1181,
     "dailyMinutesDown": {
-      "2023-01-25": 34
+      "2023-01-25": 39
     }
   },
   {
@@ -67,19 +67,19 @@
     "url": "http://gemini.solobsd.org",
     "icon": "https://icons.duckduckgo.com/ip3/gemini.solobsd.org.ico",
     "slug": "gemini",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
     "time": 226,
-    "timeDay": 285,
-    "timeWeek": 194,
-    "timeMonth": 220,
+    "timeDay": 258,
+    "timeWeek": 195,
+    "timeMonth": 219,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-01-25": 32
+      "2023-01-25": 37
     }
   }
 ]
