@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.solobsd.org.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "96.90%",
+    "uptime": "96.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.90%",
+    "uptimeYear": "96.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/science.solobsd.org.ico",
     "slug": "science",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.97%",
-    "time": 740,
-    "timeDay": 738,
-    "timeWeek": 690,
-    "timeMonth": 757,
-    "timeYear": 740,
+    "uptime": "99.98%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 739,
+    "timeDay": 637,
+    "timeWeek": 705,
+    "timeMonth": 742,
+    "timeYear": 739,
     "dailyMinutesDown": {
-      "2023-01-25": 39
+      "2023-01-25": 33
     }
   },
   {
@@ -48,18 +48,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.solobsd.org.ico",
     "slug": "news",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.97%",
-    "time": 1181,
-    "timeDay": 1351,
-    "timeWeek": 1359,
-    "timeMonth": 1319,
-    "timeYear": 1181,
+    "uptime": "99.98%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 1183,
+    "timeDay": 1352,
+    "timeWeek": 1372,
+    "timeMonth": 1318,
+    "timeYear": 1183,
     "dailyMinutesDown": {
-      "2023-01-25": 39
+      "2023-01-25": 33
     }
   },
   {
@@ -68,18 +68,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gemini.solobsd.org.ico",
     "slug": "gemini",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 226,
-    "timeDay": 258,
-    "timeWeek": 195,
-    "timeMonth": 219,
+    "timeDay": 205,
+    "timeWeek": 212,
+    "timeMonth": 214,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-01-25": 37
+      "2023-01-25": 32
     }
   }
 ]
