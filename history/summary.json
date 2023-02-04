@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.solobsd.org.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "97.15%",
+    "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.15%",
+    "uptimeYear": "97.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 814,
-    "timeDay": 4989,
-    "timeWeek": 1989,
-    "timeMonth": 978,
-    "timeYear": 814,
+    "time": 813,
+    "timeDay": 743,
+    "timeWeek": 2012,
+    "timeMonth": 973,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2023-01-25": 33
     }
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 1196,
-    "timeDay": 1407,
-    "timeWeek": 1397,
-    "timeMonth": 1339,
-    "timeYear": 1196,
+    "time": 1199,
+    "timeDay": 1492,
+    "timeWeek": 1429,
+    "timeMonth": 1349,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2023-01-25": 33
     }
@@ -74,9 +74,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 224,
-    "timeDay": 46,
-    "timeWeek": 212,
-    "timeMonth": 196,
+    "timeDay": 216,
+    "timeWeek": 220,
+    "timeMonth": 192,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2023-01-25": 32
