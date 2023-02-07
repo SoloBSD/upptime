@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.solobsd.org.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "97.25%",
+    "uptime": "97.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.25%",
+    "uptimeYear": "97.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -67,9 +67,9 @@
     "url": "http://gemini.solobsd.org",
     "icon": "https://icons.duckduckgo.com/ip3/gemini.solobsd.org.ico",
     "slug": "gemini",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
@@ -79,6 +79,7 @@
     "timeMonth": 196,
     "timeYear": 223,
     "dailyMinutesDown": {
+      "2023-02-07": 0,
       "2023-01-25": 32
     }
   }
