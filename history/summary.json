@@ -9,15 +9,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.71%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-21": 128,
-      "2022-10-20": 1440
+      "2022-10-21": 128
     }
   },
   {
@@ -26,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gemini.solobsd.org.ico",
     "slug": "gemini",
     "status": "up",
-    "uptime": "82.66%",
+    "uptime": "82.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.62%",
-    "time": 238,
-    "timeDay": 288,
-    "timeWeek": 223,
-    "timeMonth": 279,
-    "timeYear": 239,
+    "time": 239,
+    "timeDay": 310,
+    "timeWeek": 238,
+    "timeMonth": 275,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2023-08-17": 1302,
       "2023-08-16": 1440,
