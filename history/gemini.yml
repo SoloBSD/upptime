@@ -1,7 +1,7 @@
 url: http://gemini.solobsd.org
-status: down
-code: 502
-responseTime: 54
-lastUpdated: 2023-11-07T02:16:41.849Z
+status: up
+code: 200
+responseTime: 50
+lastUpdated: 2023-11-07T02:32:20.821Z
 startTime: 2022-10-18T00:17:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
