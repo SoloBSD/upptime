@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/snac.solobsd.org.ico",
     "slug": "snac",
     "status": "up",
-    "uptime": "90.91%",
+    "uptime": "90.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.89%",
-    "uptimeYear": "90.91%",
+    "uptimeYear": "90.96%",
     "time": 393,
-    "timeDay": 649,
-    "timeWeek": 551,
-    "timeMonth": 480,
+    "timeDay": 413,
+    "timeWeek": 523,
+    "timeMonth": 479,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2024-07-15": 219,
@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gemini.solobsd.org.ico",
     "slug": "gemini",
     "status": "down",
-    "uptime": "59.97%",
+    "uptime": "59.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -61,7 +61,8 @@
     "timeMonth": 0,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-07-24": 58,
+      "2024-07-25": 57,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -284,8 +285,7 @@
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
-      "2023-07-27": 1440,
-      "2023-07-26": 1440
+      "2023-07-27": 1440
     }
   }
 ]
