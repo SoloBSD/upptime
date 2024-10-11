@@ -4,9 +4,9 @@
     "url": "https://snac.solobsd.org",
     "icon": "https://icons.duckduckgo.com/ip3/snac.solobsd.org.ico",
     "slug": "snac",
-    "status": "up",
+    "status": "down",
     "uptime": "93.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "93.53%",
@@ -16,6 +16,7 @@
     "timeMonth": 1063,
     "timeYear": 504,
     "dailyMinutesDown": {
+      "2024-10-11": 0,
       "2024-10-09": 26,
       "2024-07-15": 219,
       "2024-07-14": 1440,
@@ -62,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-11": 64,
+      "2024-10-11": 401,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
